@@ -58,5 +58,4 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 - Scroll to the `@everyone` role and deny the Read Text Channels and See Voice Channels permission.
 
 
-
 ## PLEASE NOTE THAT THESE ARE THE RECOMMENDED METHODS TO UNLOCK YOUR SERVER TO AVOID CONFUSION!
