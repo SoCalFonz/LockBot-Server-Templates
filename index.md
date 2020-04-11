@@ -59,3 +59,5 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 
 
 ## PLEASE NOTE THAT THESE ARE THE RECOMMENDED METHODS TO UNLOCK YOUR SERVER TO AVOID CONFUSION!
+
+<iframe src="https://discordapp.com/widget?id=389411544594645012&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
