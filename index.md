@@ -6,17 +6,14 @@ All documentation on this page is subject to version 2 and will not apply to ver
 - **[Discord Server Invite](https://discord.gg/9t2csSh)**
 - **[LockBot Website](https://support.lockbot.network/)**
 
-# All Server Templates
-| LockBot Simple V1 | https://discord.new/a4TvV2KZAn2n |
-| LockBot Community V1 | soontm |
-
 # Server Templates:
 
 LockBot is providing certified Discord server templates to ensure that our users get the most out of our bot without the hassle of having to redo your whole server just so you can get the bot to work, below you can see a list of available templates. ***Also, these templates are made to work with Lock Bot but if you just want the template be my guest, use it!***
 
 | Server Templates For These Methods | Link |
 | ------ | ------ |
-| LockBot Simple V1 |
+| LockBot Simple V1 | https://discord.new/a4TvV2KZAn2n |
+| LockBot Community V1 | soontm |
 
 ```sh
 To request another template please view the LockBot Main Server and contact @Soocle#5944!
