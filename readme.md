@@ -13,7 +13,8 @@ LockBot is providing certified Discord server templates to ensure that our users
 | Server Templates For These Methods | Link |
 | ------ | ------ |
 | LockBot Simple V1 | https://discord.new/a4TvV2KZAn2n |
-| LockBot Community V1 | soontm |
+| LockBot Community V1 | https://discord.new/EbQ2skepkuKT |
+| LockBot Simple Support V1 | https://discord.new/qup2jqyT5fHV |
 
 ```sh
 To request another template please view the LockBot Main Server and contact @Soocle#5944!
