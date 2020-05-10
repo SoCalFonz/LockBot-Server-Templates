@@ -23,7 +23,7 @@ To request another template please view the LockBot Main Server and contact @Soo
 # Server Setup:
 Since all layouts have been extensively tested and are all with the same permission layouts, these are the most effcient ways to use the `m-mode` command and the most efficient ways to unlock the server with `m-unlock`.
 
-### Method #1:
+### Method #1: Working with **LockBot Simple V1 & Community V1**
 > Run the command and unlock **all** public chat channels with `.m-unlock 2 [category name]`
 
 > **DO NOT** use the category unlock on any other categories.
