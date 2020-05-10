@@ -60,6 +60,19 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 - Scroll to the `@everyone` role and deny the Read Text Channels and See Voice Channels permission.
 
 
+
+### Method #2: **LockBot Simple Support V1 Only**
+The LockBot Simple Support server template is meant to make your life easy, you can have a support server and lock it down when needed without the hassle of having to mess up your permissions! In these instructions, you only have to do 1 thing while unlocking your server.
+
+> Run the command `.m-unlock 1` to unlock your whole server
+
+> To relock the Staff Communications Category
+- Right click the Staff Communications Category
+- Go to Edit Category
+- Permissions
+- Scroll to the `@everyone` role and deny the Read Text Channels and See Voice Channels permission.
+
+
 ## PLEASE NOTE THAT THESE ARE THE RECOMMENDED METHODS TO UNLOCK YOUR SERVER TO AVOID CONFUSION!
 
 
