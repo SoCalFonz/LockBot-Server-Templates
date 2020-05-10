@@ -35,7 +35,7 @@ Since all layouts have been extensively tested and are all with the same permiss
 - Scroll to the `@everyone` role and allow Read Text Channels and See Voice Channels
 
 And that's it! You have successfully unlocked your server without the hassle of having to mess with so many role permissions! Once you unlock your channels you can then delete the `#maintenance-mode` channel at the top of your channel list
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ### Method #2: **LockBot Simple V1 & Community V1**
 Since you have already been in the `m-mode` state and the server is locked, you can unlock the whole server if you don't mind people seeing any of the staff channels by:
 
@@ -64,15 +64,3 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
