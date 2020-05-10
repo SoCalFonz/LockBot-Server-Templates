@@ -36,7 +36,7 @@ Since all layouts have been extensively tested and are all with the same permiss
 
 And that's it! You have successfully unlocked your server without the hassle of having to mess with so many role permissions! Once you unlock your channels you can then delete the `#maintenance-mode` channel at the top of your channel list
 
-### Method #2: 
+### Method #2: **LockBot Simple V1 & Community V1**
 Since you have already been in the `m-mode` state and the server is locked, you can unlock the whole server if you don't mind people seeing any of the staff channels by:
 
 > Run the command `.m-unlock 1` to unlock your whole server
@@ -62,4 +62,17 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 
 ## PLEASE NOTE THAT THESE ARE THE RECOMMENDED METHODS TO UNLOCK YOUR SERVER TO AVOID CONFUSION!
 
-<iframe src="https://discordapp.com/widget?id=389411544594645012&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
