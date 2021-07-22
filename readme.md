@@ -2,8 +2,8 @@
 All documentation on this page is subject to version 2 and will not apply to version 1.18. All documentation is subject to change. Here you will find how to setup our Staff certified server layouts, you will only find certified templates on this GitHub page or the LockBot website!
 
 # Bot Links:
-- **[LockBot V2 Invite Link](https://discordapp.com/oauth2/authorize?client_id=422082687310888971&permissions=0&scope=bot)**
-- **[Discord Server Invite](https://discord.gg/9t2csSh)**
+- **[LockBot V3 Invite Link](https://discordapp.com/oauth2/authorize?client_id=422082687310888971&permissions=0&scope=bot)**
+- **[Discord Server Invite](https://discord.gg/nmVG6PczTc)**
 - **[LockBot Website](https://support.lockbot.network/)**
 
 # Server Templates:
@@ -24,11 +24,11 @@ To request another template please view the LockBot Main Server and contact @Soo
 Since all layouts have been extensively tested and are all with the same permission layouts, these are the most effcient ways to use the `m-mode` command and the most efficient ways to unlock the server with `m-unlock`.
 
 ### Method #1: Working with **LockBot Simple V1 & Community V1**
-> Run the command and unlock **all** public chat channels with `.m-unlock 2 [category name]`
+> Run the command and unlock **all** public chat channels with `.s-unlock`
 
-> **DO NOT** use the category unlock on any other categories.
+> This command will revert everything back to how it was before it was locked.
 
-> To unlock the normal information category:
+> If any issues arrise, this is how to unlock the normal information category:
 -  Right click the Information Category
 - Go to Edit Category
 - Permissions
@@ -39,7 +39,7 @@ And that's it! You have successfully unlocked your server without the hassle of 
 ### Method #2: **LockBot Simple V1 & Community V1**
 Since you have already been in the `m-mode` state and the server is locked, you can unlock the whole server if you don't mind people seeing any of the staff channels by:
 
-> Run the command `.m-unlock 1` to unlock your whole server
+> Run the command `.m-unlock` to unlock your whole server
 
 > To relock the Normal Information Category:
 -  Right click the Information Category
@@ -64,7 +64,7 @@ Since you have already been in the `m-mode` state and the server is locked, you 
 ### Method #2: **LockBot Simple Support V1 Only**
 The LockBot Simple Support server template is meant to make your life easy, you can have a support server and lock it down when needed without the hassle of having to mess up your permissions! In these instructions, you only have to do 1 thing while unlocking your server.
 
-> Run the command `.m-unlock 1` to unlock your whole server
+> Run the command `.m-unlock` to unlock your whole server
 
 > To relock the Staff Communications Category
 - Right click the Staff Communications Category
