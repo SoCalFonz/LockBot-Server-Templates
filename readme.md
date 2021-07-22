@@ -4,7 +4,8 @@ All documentation on this page is subject to version 2 and will not apply to ver
 # Bot Links:
 - **[LockBot V3 Invite Link](https://discordapp.com/oauth2/authorize?client_id=422082687310888971&permissions=0&scope=bot)**
 - **[Discord Server Invite](https://discord.gg/nmVG6PczTc)**
-- **[LockBot Website](https://support.lockbot.network/)**
+- **[LockBot Website](https://lockbot.dev/)**
+- **[Documantation Site](https://lockbotstaff.gitbook.io/lock-bot/v/v3/)**
 
 # Server Templates:
 
