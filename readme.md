@@ -1,5 +1,5 @@
 # Lock Bot Certified Server Templates
-All documentation on this page is subject to version 2 and will not apply to version 1.18. All documentation is subject to change. Here you will find how to setup our Staff certified server layouts, you will only find certified templates on this GitHub page or the LockBot website!
+All documentation on this page is subject to version 3. All documentation is subject to change. Here you will find how to setup our Staff certified server layouts, you will only find certified templates on this GitHub page or the LockBot website!
 
 # Bot Links:
 - **[LockBot V3 Invite Link](https://discordapp.com/oauth2/authorize?client_id=422082687310888971&permissions=0&scope=bot)**
